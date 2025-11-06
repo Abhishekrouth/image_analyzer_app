@@ -56,5 +56,6 @@ This API can be used for:
 3. Emotion detection from human faces
 
 ### Sample Output
-
-![alt text](images/image4.jpg)
+This is an output for a image with GO SLOW written on it, and the target language
+is set to hindi:
+![alt text](images/output.jpg)
